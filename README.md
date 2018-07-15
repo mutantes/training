@@ -1,4 +1,4 @@
 # training
 Training for git
 
-Prueba de rama
+Prueba de ramas
